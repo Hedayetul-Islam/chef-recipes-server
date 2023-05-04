@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "serialNumber": "CGPT-12345-ABC",
+        "chefPicture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Chef John Smith",
+        "bio": "Chef John Smith is a classically trained chef with over 20 years of experience. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary creations.",
+        "likes": 1024,
+        "numRecipes": 50,
+        "yearsExperience": 20,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Grilled Salmon with Mango Salsa",
+                "ingredients": [
+                    "salmon fillets",
+                    "olive oil",
+                    "salt",
+                    "pepper",
+                    "mango",
+                    "red onion",
+                    "jalapeno",
+                    "lime juice",
+                    "cilantro"
+                ],
+                "cookingMethod": "Grill the salmon fillets until cooked through. Meanwhile, make the mango salsa by combining diced mango, red onion, jalapeno, lime juice, and cilantro in a bowl. Serve the salmon topped with the mango salsa.",
+                "rating": 4.5,
+                "isFavorite": true
+            },
+            {
+                "id": 2,
+                "name": "Roasted Chicken with Vegetables",
+                "ingredients": [
+                    "chicken",
+                    "potatoes",
+                    "carrots",
+                    "onion",
+                    "garlic",
+                    "rosemary",
+                    "thyme",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "Season the chicken with salt and pepper, then roast in the oven with chopped potatoes, carrots, onion, garlic, rosemary, and thyme. Serve hot.",
+                "rating": 4.2,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "name": "Beef Stroganoff",
+                "ingredients": [
+                    "beef tenderloin",
+                    "onion",
+                    "garlic",
+                    "mushrooms",
+                    "beef broth",
+                    "sour cream",
+                    "egg noodles"
+                ],
+                "cookingMethod": "Cook the beef tenderloin in a pan with onion, garlic, and mushrooms. Add beef broth and sour cream and cook until thickened. Serve over egg noodles.",
+                "rating": 4.7,
+                "isFavorite": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "serialNumber": "CGPT-67890-XYZ",
+        "chefPicture": "https://images.pexels.com/photos/4253703/pexels-photo-4253703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Chef Maria Rodriguez",
+        "bio": "Chef Maria Rodriguez is a self-taught chef with a passion for creating healthy and delicious meals. She specializes in vegetarian and vegan cuisine and believes that food should be both nourishing and enjoyable.",
+        "likes": 2048,
+        "numRecipes": 30,
+        "yearsExperience": 10,
+        "recipes": [
+            {
+                "id": 4,
+                "name": "Vegetable Stir-Fry",
+                "ingredients": [
+                    "broccoli",
+                    "carrots",
+                    "bell pepper",
+                    "onion",
+                    "garlic",
+                    "soy sauce",
+                    "rice vinegar",
+                    "sesame oil",
+                    "cornstarch"
+                ],
+                "cookingMethod": "Stir-fry chopped broccoli, carrots, bell pepper, onion, and garlic in a pan with soy sauce, rice vinegar, sesame oil, and cornstarch until vegetables are tender and sauce is thickened. Serve over rice.",
+                "rating": 4.4,
+                "isFavorite": false
+            },
+            {
+                "id": 5,
+                "name": "Roasted Butternut Squash Soup",
+                "ingredients": [
+                    "butternut squash",
+                    "onion",
+                    "garlic",
+                    "vegetable broth",
+                    "coconut milk",
+                    "curry powder",
+                    "cinnamon",
+                    "nutmeg"
+                ],
+                "cookingMethod": "Roast butternut squash, onion, and garlic in the oven until tender. Puree the roasted vegetables in a blender with vegetable broth, coconut milk, curry powder, cinnamon, and nutmeg until smooth. Serve hot.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 6,
+                "name": "Black Bean Tacos",
+                "ingredients": [
+                    "black beans",
+                    "corn tortillas",
+                    "avocado",
+                    "salsa",
+                    "lime",
+                    "cilantro",
+                    "cumin",
+                    "chili powder",
+                    "garlic powder"
+                ],
+                "cookingMethod": "Heat canned black beans in a pan with cumin, chili powder, and garlic powder. Warm corn tortillas in a separate pan. Serve black beans and tortillas topped with diced avocado, salsa, lime juice, and cilantro.",
+                "rating": 4.3,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "serialNumber": 1,
+        "id": 3,
+        "chefName": "Chef Maria",
+        "chefPicture": "https://images.pexels.com/photos/4252150/pexels-photo-4252150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bio": "Chef Maria is a classically trained French chef who has worked in Michelin-starred restaurants across Europe. She is known for her innovative takes on traditional French cuisine.",
+        "likes": 5000,
+        "numRecipes": 30,
+        "yearsExperience": 15,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "bacon",
+                    "onion",
+                    "carrots",
+                    "garlic",
+                    "red wine",
+                    "beef broth",
+                    "tomato paste",
+                    "thyme",
+                    "bay leaves",
+                    "pearl onions",
+                    "mushrooms"
+                ],
+                "cookingMethod": "Season beef chuck roast with salt and pepper. Brown beef and bacon in a large pot. Add chopped onion and carrots and cook until softened. Add garlic and cook for another minute. Add red wine, beef broth, and tomato paste and bring to a simmer. Add thyme and bay leaves and cook for 2-3 hours, until beef is tender. In a separate pan, sauté pearl onions and mushrooms until browned. Serve beef and sauce topped with pearl onions and mushrooms.",
+                "rating": 4.9,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "name": "Ratatouille",
+                "ingredients": [
+                    "eggplant",
+                    "zucchini",
+                    "yellow squash",
+                    "red bell pepper",
+                    "tomatoes",
+                    "onion",
+                    "garlic",
+                    "thyme",
+                    "olive oil"
+                ],
+                "cookingMethod": "Slice eggplant, zucchini, yellow squash, and red bell pepper into 1/4-inch thick rounds. Cut tomatoes into 1/2-inch cubes. Thinly slice onion and garlic. In a large pan, heat olive oil over medium heat. Add onion and garlic and cook until softened. Add eggplant and cook for 5 minutes. Add zucchini, yellow squash, and red bell pepper and cook for another 5 minutes. Add tomatoes and thyme and cook for another 5 minutes. Season with salt and pepper to taste.",
+                "rating": 4.6,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "name": "Coq au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "onion",
+                    "carrots",
+                    "garlic",
+                    "red wine",
+                    "chicken broth",
+                    "tomato paste",
+                    "thyme",
+                    "bay leaves",
+                    "mushrooms"
+                ],
+                "cookingMethod": "Season chicken thighs with salt and pepper. Brown chicken and bacon in a large pot. Add chopped onion and carrots and cook until softened. Add garlic and cook for another minute. Add red wine, chicken broth, and tomato paste and bring to a simmer. Add thyme and bay leaves and cook for 30-40 minutes, until chicken is cooked through. In a separate pan, sauté mushrooms until browned. Serve chicken and sauce topped with mushrooms.",
+                "rating": 4.7,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "serialNumber": 2,
+        "id": 4,
+        "chefName": "Chef Antonio",
+        "chefPicture": "https://images.pexels.com/photos/2563203/pexels-photo-2563203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "bio": "Chef Antonio is an Italian chef who grew up in Tuscany and learned to cook from his grandmother. He specializes in rustic Italian cuisine that celebrates the flavors of the region.",
+        "likes": 7000,
+        "numRecipes": 30,
+        "yearsExperience": 20,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Pappardelle with Wild Boar Ragu",
+                "ingredients": [
+                    "pappardelle pasta",
+                    "wild boar meat",
+                    "onion",
+                    "carrots",
+                    "celery",
+                    "garlic",
+                    "red wine",
+                    "tomato puree",
+                    "beef broth",
+                    "rosemary",
+                    "thyme",
+                    "bay leaves",
+                    "parmesan cheese"
+                ],
+                "cookingMethod": "In a large pot, brown wild boar meat over medium heat. Add chopped onion, carrots, and celery and cook until softened. Add garlic and cook for another minute. Add red wine and simmer until reduced by half. Add tomato puree, beef broth, and herbs and bring to a simmer. Cover and cook for 2-3 hours, until meat is tender. Cook pappardelle pasta in a large pot of salted water until al dente. Serve pasta topped with wild boar ragu and grated parmesan cheese.",
+                "rating": 4.8,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "name": "Tuscan Ribollita",
+                "ingredients": [
+                    "cannellini beans",
+                    "kale",
+                    "carrots",
+                    "celery",
+                    "onion",
+                    "garlic",
+                    "tomatoes",
+                    "vegetable broth",
+                    "day-old bread",
+                    "olive oil"
+                ],
+                "cookingMethod": "In a large pot, sauté chopped onion, carrots, and celery in olive oil until softened. Add garlic and cook for another minute. Add chopped kale and cook until wilted. Add canned cannellini beans, diced tomatoes, and vegetable broth and bring to a simmer. Cook for 30 minutes. Add torn pieces of day-old bread and cook for another 10-15 minutes, until the bread has dissolved and the soup is thickened. Season with salt and pepper to taste.",
+                "rating": 4.5,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "name": "Osso Buco",
+                "ingredients": [
+                    "veal shanks",
+                    "onion",
+                    "carrots",
+                    "celery",
+                    "garlic",
+                    "tomato paste",
+                    "chicken broth",
+                    "white wine",
+                    "bay leaves",
+                    "thyme",
+                    "parsley",
+                    "lemon zest",
+                    "gremolata"
+                ],
+                "cookingMethod": "Season veal shanks with salt and pepper. Brown shanks in a large pot. Add chopped onion, carrots, and celery and cook until softened. Add garlic and cook for another minute. Add tomato paste, chicken broth, and white wine and bring to a simmer. Add bay leaves and thyme and cook for 2-3 hours, until meat is tender. In a separate bowl, mix together chopped parsley, lemon zest, and garlic to make gremolata. Serve veal shanks topped with gremolata.",
+                "rating": 4.7,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "serialNumber": "123-ABC",
+        "chefPicture": "https://images.pexels.com/photos/3785710/pexels-photo-3785710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Chef Roger",
+        "bio": "Chef Roger is a classically trained French chef with over 25 years of experience. He is known for his exquisite sauces and expertly prepared proteins.",
+        "likes": 10000,
+        "numRecipes": 30,
+        "yearsExperience": 25,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Beef Bourguignon",
+                "ingredients": [
+                    "beef chuck roast",
+                    "bacon",
+                    "carrots",
+                    "onions",
+                    "garlic",
+                    "tomato paste",
+                    "beef broth",
+                    "red wine",
+                    "thyme",
+                    "bay leaves",
+                    "pearl onions",
+                    "mushrooms"
+                ],
+                "cookingMethod": "Preheat the oven to 325°F. In a large pot, cook bacon over medium heat until crisp. Remove bacon and set aside. Season beef with salt and pepper, and brown on all sides in the bacon fat. Remove beef and set aside. In the same pot, add chopped carrots and onions and cook until softened. Add garlic and cook for another minute. Add tomato paste and cook for another minute. Add red wine and beef broth and bring to a simmer. Add thyme and bay leaves. Return beef and bacon to the pot and bring to a simmer. Cover and cook in the oven for 2-3 hours. In a separate pot, boil pearl onions until tender. In a separate pan, sauté mushrooms until browned. Add pearl onions and mushrooms to the pot with beef and simmer for another 15 minutes. Serve hot.",
+                "rating": 4.9,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "name": "Coq Au Vin",
+                "ingredients": [
+                    "chicken thighs",
+                    "bacon",
+                    "carrots",
+                    "onions",
+                    "garlic",
+                    "tomato paste",
+                    "chicken broth",
+                    "red wine",
+                    "thyme",
+                    "bay leaves",
+                    "pearl onions",
+                    "mushrooms"
+                ],
+                "cookingMethod": "Preheat the oven to 325°F. In a large pot, cook bacon over medium heat until crisp. Remove bacon and set aside. Season chicken with salt and pepper, and brown on all sides in the bacon fat. Remove chicken and set aside. In the same pot, add chopped carrots and onions and cook until softened. Add garlic and cook for another minute. Add tomato paste and cook for another minute. Add red wine and chicken broth and bring to a simmer. Add thyme and bay leaves. Return chicken and bacon to the pot and bring to a simmer. Cover and cook in the oven for 1-2 hours. In a separate pot, boil pearl onions until tender. In a separate pan, sauté mushrooms until browned. Add pearl onions and mushrooms to the pot with chicken and simmer for another 15 minutes. Serve hot.",
+                "rating": 4.8,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "name": "Beurre Blanc Sauce",
+                "ingredients": [
+                    "white wine vinegar",
+                    "shallots",
+                    "white wine",
+                    "heavy cream",
+                    "butter",
+                    "salt",
+                    "pepper"
+                ],
+                "cookingMethod": "In a small saucepan, heat white wine vinegar and chopped shallots over medium heat. Simmer until reduced by half. Add white wine and continue simmering until reduced by half again. Reduce the heat to low and add heavy cream, whisking constantly. Cut the butter into small pieces and add a few at a time, whisking until fully incorporated before adding more. Continue whisking until all the butter has been added and the sauce is smooth. Season with salt and pepper to taste. Serve immediately.",
+                "rating": 4.7,
+                "isFavorite": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "serialNumber": "456-DEF",
+        "chefPicture": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefName": "Chef Aniket",
+        "bio": "Chef Aniket is a self-taught Indian chef who specializes in vegetarian and vegan cuisine. He has won several awards for his innovative recipes that use fresh, locally sourced ingredients.",
+        "likes": 5000,
+        "numRecipes": 30,
+        "yearsExperience": 10,
+        "recipes": [
+            {
+                "id": 1,
+                "name": "Chana Masala",
+                "ingredients": [
+                    "chickpeas",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "tomatoes",
+                    "green chili",
+                    "cumin",
+                    "coriander",
+                    "turmeric",
+                    "garam masala",
+                    "salt",
+                    "cilantro"
+                ],
+                "cookingMethod": "In a large pot, sauté chopped onion, garlic, and ginger in oil until softened. Add chopped tomatoes and green chili and cook until tomatoes break down. Add cumin, coriander, turmeric, garam masala, and salt and cook for another minute. Add chickpeas and enough water to cover them. Bring to a simmer and cook until chickpeas are tender. Garnish with chopped cilantro and serve hot.",
+                "rating": 4.9,
+                "isFavorite": false
+            },
+            {
+                "id": 2,
+                "name": "Saag Paneer",
+                "ingredients": [
+                    "spinach",
+                    "paneer",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "tomatoes",
+                    "cumin",
+                    "coriander",
+                    "turmeric",
+                    "garam masala",
+                    "salt",
+                    "cream"
+                ],
+                "cookingMethod": "Blanch spinach in boiling water for 1-2 minutes. Drain and transfer to an ice bath to stop the cooking process. Drain again and blend to a smooth paste. In a large pan, sauté chopped onion, garlic, and ginger in oil until softened. Add chopped tomatoes and cook until tomatoes break down. Add cumin, coriander, turmeric, garam masala, and salt and cook for another minute. Add spinach paste and cook for a few minutes. Add cubed paneer and cream and simmer until heated through. Serve hot.",
+                "rating": 4.8,
+                "isFavorite": false
+            },
+            {
+                "id": 3,
+                "name": "Tofu Tikka Masala",
+                "ingredients": [
+                    "tofu",
+                    "onion",
+                    "garlic",
+                    "ginger",
+                    "tomatoes",
+                    "green chili",
+                    "cumin",
+                    "coriander",
+                    "turmeric",
+                    "garam masala",
+                    "salt",
+                    "cream"
+                ],
+                "cookingMethod": "In a large pan, sauté cubed tofu until browned on all sides. Remove from the pan and set aside. In the same pan, sauté chopped onion, garlic, and ginger in oil until softened. Add chopped tomatoes and green chili and cook until tomatoes break down. Add cumin, coriander, turmeric, garam masala, and salt and cook for another minute. Add tofu and enough water to cover. Bring to a simmer and cook until the sauce has thickened and the tofu is heated through. Stir in the cream and cook for a few more minutes. Serve hot with rice or naan.",
+                "rating": 4.6,
+                "isFavorite": false
+            }
+        ]
+    }
+]
