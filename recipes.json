@@ -129,7 +129,7 @@
         ]
     },
     {
-        "serialNumber": 1,
+        "serialNumber": "AA",
         "id": 3,
         "chefName": "Chef Maria",
         "chefPicture": "https://images.pexels.com/photos/4252150/pexels-photo-4252150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -200,7 +200,7 @@
         ]
     },
     {
-        "serialNumber": 2,
+        "serialNumber": "BBg",
         "id": 4,
         "chefName": "Chef Antonio",
         "chefPicture": "https://images.pexels.com/photos/2563203/pexels-photo-2563203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
