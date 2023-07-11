@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "serialNumber": "CGPT-12345-ABC",
+        "id": "1",
+        "_id": "CGPT-12345-ABC",
         "chefPicture": "https://images.pexels.com/photos/887827/pexels-photo-887827.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "chefName": "Chef John Smith",
         "bio": "Chef John Smith is a classically trained chef with over 20 years of experience. He has worked in some of the best restaurants in the world and has won numerous awards for his culinary creations.",
@@ -64,8 +64,8 @@
         ]
     },
     {
-        "id": 2,
-        "serialNumber": "CGPT-67890-XYZ",
+        "id": "2",
+        "_id": "CGPT-67890-XYZ",
         "chefPicture": "https://images.pexels.com/photos/4253703/pexels-photo-4253703.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "chefName": "Chef Maria Rodriguez",
         "bio": "Chef Maria Rodriguez is a self-taught chef with a passion for creating healthy and delicious meals. She specializes in vegetarian and vegan cuisine and believes that food should be both nourishing and enjoyable.",
@@ -129,10 +129,10 @@
         ]
     },
     {
-        "serialNumber": "AA",
-        "id": 3,
+        "_id": "AA",
+        "id": "3",
         "chefName": "Chef Maria",
-        "chefPicture": "https://images.pexels.com/photos/4252150/pexels-photo-4252150.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "chefPicture": "https://images.pexels.com/photos/3771120/pexels-photo-3771120.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bio": "Chef Maria is a classically trained French chef who has worked in Michelin-starred restaurants across Europe. She is known for her innovative takes on traditional French cuisine.",
         "likes": 5000,
         "numRecipes": 25,
@@ -200,8 +200,8 @@
         ]
     },
     {
-        "serialNumber": "BBg",
-        "id": 4,
+        "_id": "BBg",
+        "id": "4",
         "chefName": "Chef Antonio",
         "chefPicture": "https://images.pexels.com/photos/2563203/pexels-photo-2563203.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "bio": "Chef Antonio is an Italian chef who grew up in Tuscany and learned to cook from his grandmother. He specializes in rustic Italian cuisine that celebrates the flavors of the region.",
@@ -275,8 +275,8 @@
         ]
     },
     {
-        "id": 5,
-        "serialNumber": "123-ABC",
+        "id": "5",
+        "_id": "123-ABC",
         "chefPicture": "https://images.pexels.com/photos/3785710/pexels-photo-3785710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "chefName": "Chef Roger",
         "bio": "Chef Roger is a classically trained French chef with over 25 years of experience. He is known for his exquisite sauces and expertly prepared proteins.",
@@ -345,7 +345,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": "6",
         "serialNumber": "456-DEF",
         "chefPicture": "https://images.pexels.com/photos/8629121/pexels-photo-8629121.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "chefName": "Chef Aniket",
